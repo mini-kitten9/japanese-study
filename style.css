@@ -1,15 +1,16 @@
-#head {
+.headtitle {
     background-color: white;
     color: black;
     border-radius: 10px;
     text-align: center;
     padding: 8px 16px;
-    width: 300px;
+    width: 350px;
     margin: 0 auto;
 }
 
-#head h1 {
-    font-size: 20px;
+.headtitle h1 {
+    font-size: 30px;
+    padding-bottom: 4px;
 }
 
 body {
