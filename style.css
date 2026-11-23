@@ -6,7 +6,6 @@
     padding: 8px 16px;
     width: 350px;
     margin: 5px auto;
-    
 }
 
 .headtitle h1 {
@@ -16,4 +15,9 @@
 
 body {
     background-color: cornflowerblue;
+}
+
+.sidebar {
+    flex: 0 0 240px;
+    background-color: white;
 }
