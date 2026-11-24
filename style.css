@@ -23,5 +23,11 @@ body {
 }
 .sidebar {
     grid-row: 1 / -1;
+    grid-column: 1 / 2;
     background-color: white;
+}
+
+.mainside {
+    grid-row: 1 / -1;
+    grid-column: 2 / -1;
 }
